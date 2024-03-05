@@ -108,8 +108,12 @@ body {
     letter-spacing: 0.02em;
 }
 
-.port-section {
+.team-section {
     background-color: #f4f4fd;
+}
+
+.port-section {
+    background-color: #ffffff;
 }
 
 .foott {
