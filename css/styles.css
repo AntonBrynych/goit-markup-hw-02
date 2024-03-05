@@ -82,9 +82,14 @@ body {
 .heads2 {
     font-weight: 700;
     font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
 }
 
-.heads3 {
+.headss {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -97,14 +102,19 @@ body {
     letter-spacing: 0.02em;
 }
 
+.port-section {
+    background-color: #f4f4fd;
+}
+
 .foott {
     background-color: #2e2f42;
 }
 
 .foot-text {
-    color: #e7e9fc;
+    color: #f4f4fd;
     background-color: #2e2f42;
     font-size: 16;
+    letter-spacing: 0.02em;
 }
 
 .foot-logo {
